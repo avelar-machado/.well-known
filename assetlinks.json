@@ -6,7 +6,7 @@
     ],
     "target" : {
       "namespace" : "android_app",
-      "package_name" : "com.example.android",
+      "package_name" : "ao.co.isptec.aplm.api",
       "sha256_cert_fingerprints" : [
         "31A5475011B3989F89A67B0724C19FCA774E528AB37744F34FDE053C086B63D6"
       ]
